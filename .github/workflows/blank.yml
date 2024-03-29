@@ -37,3 +37,6 @@ jobs:
 
     - name: Test application
       run: 'npm test'
+
+    - name: Run tests
+      run: echo "Tests to be added"
